@@ -1,6 +1,9 @@
+<!DOCTYPE html>
+<html>
 <head>
     <meta name="google-site-verification" content="jGrzCf-a3q2wnbZguw-m7vFj1GnUawQtycQKqTlruVU" />
 </head>
+</html>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=15-Year-Old+Professional+Game+Developer;Unity+Expert+%7C+5%2B+Years+Experience;AR%2FVR+Specialist+%7C+Full-Stack+Developer;AI+Developer+%7C+Youngest+at+Quantum+Solutions;From+Pakistan+%7C+Available+Worldwide align="left")
 
