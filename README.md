@@ -1,3 +1,5 @@
+<head><meta name="google-site-verification" content="jGrzCf-a3q2wnbZguw-m7vFj1GnUawQtycQKqTlruVU" /></head>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=15-Year-Old+Professional+Game+Developer;Unity+Expert+%7C+5%2B+Years+Experience;AR%2FVR+Specialist+%7C+Full-Stack+Developer;AI+Developer+%7C+Youngest+at+Quantum+Solutions;From+Pakistan+%7C+Available+Worldwide align="left")
 
 **Mahad Asif** 15-year-old professional game dev from Pakistan. 5+ years experience, youngest dev at Quantum Solutions. Built AR/VR games, [RentOut.pk](http://RentOut.pk) platform & OpenDev AI system.
